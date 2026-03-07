@@ -19,5 +19,4 @@
 > Pls upload the Video in Google form link
 
 # 7 Linkedin Post
-> Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> (https://www.linkedin.com/posts/%F0%9D%99%BB%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%8C%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%97%F0%9D%9A%8A-%F0%9D%9A%82-a3b7163b5_medicalrobotics-artificialintelligence-healthcareinnovation-activity-7436072272630792192-LzJA?utm_source=share&utm_medium=member_android&rcm=ACoAAGVgI08BDU7BbNqmRITrfP2uzLqs5KUJeQ0)
